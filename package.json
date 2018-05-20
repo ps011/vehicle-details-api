@@ -1,0 +1,33 @@
+{
+  "name": "vehicle-details-api",
+  "version": "1.0.0",
+  "description": "This API provides details of a Vehicle corresponding to its Number",
+  "main": "getDetails.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.86.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node getDetails"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ps011/vehicle-details-api.git"
+  },
+  "keywords": [
+    "Vehicle",
+    "India",
+    "Details",
+    "Number",
+    "API",
+    "JSON"
+  ],
+  "author": "Prasheel Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ps011/vehicle-details-api/issues"
+  },
+  "homepage": "https://github.com/ps011/vehicle-details-api#readme"
+}
